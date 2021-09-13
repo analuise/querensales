@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Oi oi gente, cheguei a pouco tempo nesse universo gigante que é o T.I ainda tenho um longo caminho pela frente e sei que com foco e esforço chegarei aonde espero.
+Oi oi gente, cheguei a pouco tempo nesse universo gigante que é a programação ainda tenho um longo caminho pela frente e sei que com foco e esforço chegarei aonde espero. Fiquem aqui comigo e vamos juntos em busca dessa evolução :)
 
 <!--
 **querensales/querensales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
