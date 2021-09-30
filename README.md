@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Oi oi gente, cheguei a pouco tempo nesse universo gigante que é a programação ainda tenho um longo caminho pela frente e sei que com foco e esforço chegarei aonde espero. Fiquem aqui comigo e vamos juntos em busca dessa evolução :)
+Estudante de front-end pela Alura. Venho dividir com vocês minhas evoluções. 
 
 <!--
 **querensales/querensales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
