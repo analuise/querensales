@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Estudante de front-end pela Alura. Venho dividir com vocês minhas evoluções. 
+Estudante de front-end.
 
 <!--
 **querensales/querensales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
