@@ -1,21 +1,19 @@
-### Hi there 👋
-I am Queren Sales, 25years and...
-* DEVELOPMENT STUDENT :)
+### Olá mundo! 👋
 
-<!--
 **querensales/querensales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on personal projects.
+🌱 I am currently learning Angular/Cli
+
+📫 How to contact me:
+   Linkedin: https://bityli.com/9jn1TX
+   Instagram: https://bityli.com/pa6Ug4
+
+✨ Tools: Vs code, Figma, GitHub.
+⚡ Skills: HTML, CSS, JavaScript.
+
  <div>
   <a href="https://github.com/querensales">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=querensales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
