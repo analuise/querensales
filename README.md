@@ -1,18 +1,15 @@
-### Olá mundo! 👋
+### Bem vindo(a) ao meu repositório! 👋
 
-**querensales/querensales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**querensales/querensales** 
 
-Here are some ideas to get you started:
 
-I am currently working on personal projects.
-🌱 I am currently learning Angular/Cli
 
 📫 How to contact me:
    Linkedin: https://bityli.com/9jn1TX
    Instagram: https://bityli.com/pa6Ug4
 
 ✨ Tools: Vs code, Figma, GitHub.
-⚡ Skills: HTML, CSS, JavaScript.
+⚡ Skills: HTML, CSS, JavaScript, Angular
 
  <div>
   <a href="https://github.com/querensales">
