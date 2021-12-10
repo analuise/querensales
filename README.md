@@ -1,6 +1,6 @@
 ### Bem vindo(a) ao meu repositório! 👋
 
-**querensales/querensales** 
+
 
 
 
@@ -8,7 +8,7 @@
    Linkedin: https://bityli.com/9jn1TX
    Instagram: https://bityli.com/pa6Ug4
 
-✨ Tools: Vs code, Figma, GitHub.
+✨ Tools: Vs code, Figma, GitHub. 
 ⚡ Skills: HTML, CSS, JavaScript, Angular
 
  <div>
